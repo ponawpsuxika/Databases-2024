@@ -1,6 +1,8 @@
 # 🎶 Record Company Database Project
 
 Εργασία Εργαστηρίου Βάσεων Δεδομένων (2024–2025) . CEID Upatras 
+--- 
+
 Υλοποίηση σε **MySQL** και **Java (JDBC + GUI)**
 
 ---
